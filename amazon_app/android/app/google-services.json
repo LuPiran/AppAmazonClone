@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024076065887",
+    "project_id": "app-dc78d",
+    "storage_bucket": "app-dc78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024076065887:android:b66b39747aa98ea25b7fea",
+        "android_client_info": {
+          "package_name": "com.example.amazon_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024076065887-rl1fr4gja7lna4kqvvfd95itffpaeh48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfo7lIIc0jFJ_sCq-NcRAvki-XmaBqawE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024076065887-rl1fr4gja7lna4kqvvfd95itffpaeh48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
